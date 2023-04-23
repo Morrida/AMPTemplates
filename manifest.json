@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "68d3c080-ee2e-48bb-a641-a908464db938",
+    "authors": [
+        "Morrida"
+    ],
+    "origin": "https://github.com/Morrida/AMPTemplates.git",
+    "url": "https://github.com/Morrida/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Morrida"
 }
